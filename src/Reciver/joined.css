@@ -1,0 +1,20 @@
+.joined
+{
+    display: block;
+}
+
+.joined .time
+{
+    font-size: 0.85rem;
+    color:darkcyan;
+}
+.joined .name
+{
+    font-weight: bold;
+    color:darkgreen;
+}
+
+.joined .content
+{
+    color: darkgreen;
+}

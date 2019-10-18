@@ -1,0 +1,13 @@
+.Reciver
+{
+    overflow: auto;
+    height: 460px;
+    margin-left: 15px;
+    margin-right: 15px; 
+    width:auto;
+    background-color: whitesmoke;
+    padding: 0;
+    border-width: 0.2rem !important; 
+    border-color: seashell !important; 
+}
+

@@ -1,0 +1,20 @@
+.left
+{
+    display: block;
+}
+
+.left .time
+{
+    font-size: 0.85rem;
+    color:darkred;
+}
+.left .name
+{
+    font-weight: bold;
+    color:red;
+}
+
+.left .content
+{
+    color: red;
+}

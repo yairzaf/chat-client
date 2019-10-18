@@ -1,0 +1,19 @@
+.message
+{
+    display: block;
+}
+.message .time
+{
+    font-size: 0.75rem;
+    color:lightseagreen;
+}
+.message .name
+{
+    font-weight: bold;
+    color:darkgreen;
+}
+
+.message .content
+{
+    color: blue;
+}
